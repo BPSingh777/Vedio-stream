@@ -1,3 +1,4 @@
+# APK Link - https://drive.google.com/file/d/1TCwXKeXNDvjRJ36YwMXGy5ciwSbWiYT_/view?usp=sharing
 # Video Player Stream
 
 A modern Android video player application built with ExoPlayer and Jetpack Compose that supports both streaming and local video playback with advanced features like mid-roll ad insertion.
